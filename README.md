@@ -4,20 +4,6 @@ Welcome to **SELFCORD ORIGINALS Token Checker**! This tool is designed to help y
 
 ---
 
-## Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Requirements](#requirements)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Configuration & Obfuscation](#configuration--obfuscation)
-- [Security Considerations](#security-considerations)
-- [Contributing](#contributing)
-- [License](#license)
-- [Support](#support)
-
----
-
 ## Overview ✨
 The **SELFCORD ORIGINALS Token Checker** is a Python script that:
 - Reads Discord tokens from a file (`tokens.txt`)
